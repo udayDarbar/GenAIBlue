@@ -84,3 +84,4 @@ The pipeline consists of the following main components:
 Udaysinh Rathod, Swikrit Aryal, Sharmin Nahar, Khushi Rana, Manideep Reddy Kunta, and Edward Nicol Kwakye
 
 
+<img width="772" height="844" alt="image" src="https://github.com/user-attachments/assets/6bfa0cc2-c7d9-4063-bcc5-740773c74483" />
