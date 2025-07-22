@@ -80,12 +80,7 @@ The pipeline consists of the following main components:
 *   **CUDA Issues:** If you are using CUDA, make sure that you have the correct drivers installed and that PyTorch is configured to use your GPU.
 *   **DeepSeek R1:** Ensure the path to your GGUF model is correct.
 
-## Team Division Checklist
+## Team 
+Udaysinh Rathod, Swikrit Aryal, Sharmin Nahar, Khushi Rana, Manideep Reddy Kunta, and Edward Nicol Kwakye
 
-### ✅ Assigned to: Uday
 
-*   [x] Build microphone input and preprocessing module
-*   [x] Implement **ASR (Speech-to-Text)** pipeline using SpeechT5
-*   [x] Integrate MP-SENet-DNS for real-time noise suppression
-*   [x] Test pipeline with different accents and environments
-*   [ ] Optimize latency for real-time interaction
